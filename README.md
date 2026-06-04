@@ -53,7 +53,7 @@ gerador-de-insights/
 
 - A interface inicial do sistema antes da consulta à API.
 
-![Tela Inicial](assets/screenshot1.png)
+![Tela Inicial](assets/screenshot.png)
 
 - Após clicar em "Buscar Insight", um conselho aleatório é exibido ao usuário.
 
