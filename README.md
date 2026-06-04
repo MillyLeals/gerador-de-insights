@@ -49,6 +49,15 @@ gerador-de-insights/
 ├── script.js
 └── README.md
 ```
+## Preview
+
+- A interface inicial do sistema antes da consulta à API.
+
+![Tela Inicial](assets/screenshot1.png)
+
+- Após clicar em "Buscar Insight", um conselho aleatório é exibido ao usuário.
+
+![Conselho Gerado](assets/screenshot2.png)
 
 ## Aprendizados
 
